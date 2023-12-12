@@ -5,14 +5,13 @@ Hello all!
 
 I graduated with a masters in Mechanical Engineering and have experience working as a Manufacturing intern at Siemens Turbomachinery. I have finished a Data Science bootcamp at Le Wagon and am looking at a career change into Cloud Computing Technology!
 
-
 - 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **ben.edwards101@hotmail.co.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ ben-edwards-8b93a7201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ben-edwards-8b93a7201" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ben-edwards-8b93a7201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ben-edwards-8b93a7201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
