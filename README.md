@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben Edwards</h1>
 <h3 align="center">A passionate,aspiring cloud engineer</h3>
 
-Hello!
+Hello all!
 
 I graduated with a masters in Mechanical Engineering and have experience working as a Manufacturing intern at Siemens Turbomachinery. I have finished a Data Science bootcamp at Le Wagon and am looking at a career change into Cloud Computing Technology!
 
